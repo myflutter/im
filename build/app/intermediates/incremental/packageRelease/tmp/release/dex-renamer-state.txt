@@ -1,0 +1,4 @@
+#Wed Feb 20 20:07:32 CST 2019
+base.0=E\:\\my\\flutter\\flutter_im\\im\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
