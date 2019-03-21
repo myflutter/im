@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
           "search": (BuildContext context) => new Search(),
           "/friends": (_)=> new WebviewScaffold(
             // webview 插件
-            url: "https:// flutter.io",
+            url: "https://flutter.io",
             appBar: new AppBar(
               title: new Text('flutter 官网'),
             ),
